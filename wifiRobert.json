@@ -1,0 +1,16 @@
+{
+    "aironet": [
+        {
+            "host_ip": "10.m.10.3",
+            "hostname": "mAccessPoint",
+            "username": "admin",
+            "password": "pass",
+            "ssid": "M-ResortWorldWIFI",
+            "authentication": "open",
+            "key-man": "wpa",
+            "wifi-pass": "C1sc0123",
+            "channel": "2",
+            "enc-mod": "tkip"
+        }
+    ]
+}
